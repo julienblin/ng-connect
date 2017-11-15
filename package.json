@@ -1,0 +1,46 @@
+{
+  "name": "ng-connect",
+  "version": "0.1.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julienblin/ng-connect.git"
+  },
+  "keywords": [
+    "angular",
+    "oauth2",
+    "oid",
+    "open-id"
+  ],
+  "author": {
+    "name": "Julien Blin",
+    "email": "julien.blin@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/julienblin/ng-connect/issues"
+  },
+  "homepage": "https://github.com/julienblin/ng-connect#readme",
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "peerDependencies": {
+    "@angular/common": ">=5.0.0",
+    "@angular/core": ">=5.0.0"
+  },
+  "devDependencies": {
+    "@angular/common": "^5.0.1",
+    "@angular/compiler": "^5.0.1",
+    "@angular/core": "^5.0.1",
+    "@angular/platform-browser": "^5.0.1",
+    "@angular/platform-browser-dynamic": "^5.0.1",
+    "codelyzer": "^4.0.1",
+    "rxjs": "^5.5.2",
+    "tslint": "^5.8.0",
+    "typescript": "^2.6.1",
+    "zone.js": "^0.8.18"
+  }
+}
